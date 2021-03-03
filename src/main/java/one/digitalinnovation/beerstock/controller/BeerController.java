@@ -56,3 +56,5 @@ public class BeerController implements BeerControllerDocs {
         return beerService.increment(id, quantityDTO.getQuantity());
     }
 }
+
+

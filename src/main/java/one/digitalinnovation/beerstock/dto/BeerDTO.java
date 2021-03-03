@@ -40,3 +40,5 @@ public class BeerDTO {
     @NotNull
     private BeerType type;
 }
+
+

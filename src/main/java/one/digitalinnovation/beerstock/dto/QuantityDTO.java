@@ -18,3 +18,4 @@ public class QuantityDTO {
     @Max(100)
     private Integer quantity;
 }
+

@@ -14,3 +14,6 @@ public interface BeerMapper {
 
     BeerDTO toDTO(Beer beer);
 }
+
+
+

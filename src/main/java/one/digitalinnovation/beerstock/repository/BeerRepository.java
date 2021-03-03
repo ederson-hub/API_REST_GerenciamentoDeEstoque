@@ -9,3 +9,5 @@ public interface BeerRepository extends JpaRepository<Beer, Long> {
 
     Optional<Beer> findByName(String name);
 }
+
+

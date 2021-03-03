@@ -45,3 +45,4 @@ public interface BeerControllerDocs {
     })
     void deleteById(@PathVariable Long id) throws BeerNotFoundException;
 }
+

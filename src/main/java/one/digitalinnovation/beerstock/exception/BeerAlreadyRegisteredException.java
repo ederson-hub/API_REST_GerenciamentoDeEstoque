@@ -10,3 +10,5 @@ public class BeerAlreadyRegisteredException extends Exception{
         super(String.format("Beer with name %s already registered in the system.", beerName));
     }
 }
+
+
